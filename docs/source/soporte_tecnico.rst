@@ -21,16 +21,16 @@ Doy el apoyo técnico en las siguientes categorias:
    :width: 5%
 
 .. image:: MATLAB-Symbol.jpg
-   :width: 20%
+   :width: 10%
 
 .. image:: Rlogo.png
-   :width: 15%
+   :width: 10%
 
 .. image:: logo_c++.jpg
-   :width: 15%
+   :width: 10%
 
 .. image:: logo_python.png
-   :width: 15%
+   :width: 10%
 
 .. image:: ubuntu_logo.png
 
