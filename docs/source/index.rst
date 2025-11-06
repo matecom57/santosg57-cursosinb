@@ -1,4 +1,4 @@
-¡Bienvenido a los Cursos y Soporte de computación que se ofrecen!
+¡Bienvenido a los Cursos y Soporte Técnico en  Computación:!
 ===================================
 
 Esta pagina 
@@ -19,6 +19,7 @@ Cursos
 
 .. toctree::
 
+   soporte_tecnico
    python_temario
    R_temario
    usage
