@@ -33,4 +33,4 @@ Doy el apoyo técnico en las siguientes categorias:
    :width: 7%
 
 .. image:: ubuntu_logo.png
-   :width: 7% 
+   :width: 10% 
