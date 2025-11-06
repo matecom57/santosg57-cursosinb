@@ -27,10 +27,10 @@ Doy el apoyo técnico en las siguientes categorias:
    :width: 7%
 
 .. image:: logo_c++.jpg
-   :width: 10%
+   :width: 7%
 
 .. image:: logo_python.png
-   :width: 10%
+   :width: 7%
 
 .. image:: ubuntu_logo.png
-
+   :width: 7% 
