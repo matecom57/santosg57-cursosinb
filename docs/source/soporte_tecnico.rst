@@ -34,3 +34,7 @@ Doy el apoyo técnico en las siguientes categorias:
 
 .. image:: ubuntu_logo.png
    :width: 10% 
+
+.. image:: 1920px-DEC_VT100_terminal.jpg
+
+.. image:: Pdp-11-40.jpg
