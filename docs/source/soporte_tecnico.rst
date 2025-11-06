@@ -35,6 +35,11 @@ Doy el apoyo técnico en las siguientes categorias:
 .. image:: ubuntu_logo.png
    :width: 10% 
 
+Maquinas en mis tiempos:
+
+
 .. image:: 1920px-DEC_VT100_terminal.jpg
+   :width: 20%
 
 .. image:: Pdp-11-40.jpg
+   :width: 20%
