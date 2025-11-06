@@ -20,5 +20,6 @@ Cursos
 .. toctree::
 
    python_temario
+   R_temario
    usage
    api
