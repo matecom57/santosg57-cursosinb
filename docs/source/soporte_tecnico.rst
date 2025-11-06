@@ -1,4 +1,4 @@
-Soporte Técnico en Linux
+Soporte Técnico en Linux y en Programación
 ========================
 
 Doy el apoyo técnico en las siguientes categorias:
