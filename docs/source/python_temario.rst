@@ -3,7 +3,7 @@ Introducción al Lenguaje de Programación Python
 
 .. figure:: logo_python.png 
    :align: center
-   :width: 50%
+   :width: 30%
 
 **Costo: $2,800.00**
 
