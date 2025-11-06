@@ -1,7 +1,7 @@
 Introducción al Lenguaje de Programación Python
 ===============================================
 
-.. image:: logo_python.png 
+.. images:: logo_python.png 
 
 **Costo: $2,800.00**
 
