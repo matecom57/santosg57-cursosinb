@@ -24,7 +24,7 @@ Doy el apoyo técnico en las siguientes categorias:
    :width: 10%
 
 .. image:: Rlogo.png
-   :width: 10%
+   :width: 7%
 
 .. image:: logo_c++.jpg
    :width: 10%
