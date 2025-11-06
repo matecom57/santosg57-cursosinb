@@ -18,19 +18,19 @@ Doy el apoyo técnico en las siguientes categorias:
 7. Ayuda en la uteleria: grep, sed, 
 
 .. image:: C_Logo.png
-   :width: 50%
+   :width: 20%
 
 .. image:: MATLAB-Symbol.jpg
-   :width: 50%
+   :width: 20%
 
 .. image:: Rlogo.png
-   :width: 50%
+   :width: 20%
 
 .. image:: logo_c++.jpg
-   :width: 50%
+   :width: 20%
 
 .. image:: logo_python.png
-   :width: 50%
+   :width: 20%
 
 .. image:: ubuntu_logo.png
 
