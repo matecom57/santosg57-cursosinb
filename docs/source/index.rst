@@ -19,5 +19,6 @@ Cursos
 
 .. toctree::
 
+   python_temario
    usage
    api
