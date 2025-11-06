@@ -125,8 +125,7 @@ Bibliografía Básica:
 
 1. Gareth James and Daniela Witten, “An Introduction to Satistical Learning”, Ed. Springer
 
-2. Thomas W. MacFarland, “Introduction to Data Analysis and Graphical Presentation in Biostatistics with R”. 
-Ed. Springer
+2. Thomas W. MacFarland, “Introduction to Data Analysis and Graphical Presentation in Biostatistics with R”. Ed. Springer
 
 3. Manas A. Pathak, “Beginning Data Science with R”. Ed. Springer
 
