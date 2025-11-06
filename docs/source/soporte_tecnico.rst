@@ -18,7 +18,7 @@ Doy el apoyo técnico en las siguientes categorias:
 7. Ayuda en la uteleria: grep, sed, 
 
 .. image:: C_Logo.png
-   :width: 20%
+   :width: 15%
 
 .. image:: MATLAB-Symbol.jpg
    :width: 20%
