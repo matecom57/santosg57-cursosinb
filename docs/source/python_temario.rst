@@ -28,11 +28,9 @@ Temas
 
 **1. Introducción**
 
-1.1 Qué es “Python”.
-
-1.2 Sistemas de Numeración. Operadores aritméticos y lógicos
-
-1.3 Instalación y Ambiente de Programación con: Bash, IPython, Spyder
+   1.1 Qué es “Python”.
+   1.2 Sistemas de Numeración. Operadores aritméticos y lógicos
+   1.3 Instalación y Ambiente de Programación con: Bash, IPython, Spyder
 
 **2. Python como Calculadora.**
 
